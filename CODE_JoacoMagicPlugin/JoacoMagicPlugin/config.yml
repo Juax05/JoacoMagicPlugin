@@ -1,0 +1,11 @@
+Config:
+  mensaje-bienvenida: true
+  mensaje-bienvenida-texto: 
+  - "&6                                           "
+  - "&6&lBienvenido &2%player% &9&lal &4&lServidor"
+  - "&6&lBienvenido &2%player% &9&lal &4&lServidor"
+  - "&6&lBienvenido &2%player% &9&lal &4&lServidor"
+  - "&6                                           "
+  usuarios-reportados:
+  -alberto
+  -manuel

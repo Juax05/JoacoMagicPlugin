@@ -1,0 +1,10 @@
+main: joaco.joacomagicplugin.JoacoMagicPlugin
+version: 16
+name: JoacoMagicPlugin
+
+commands:
+ youtube:
+  description: El comando de YouTube
+ joacomp:
+  description: EL comando principal
+  
